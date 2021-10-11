@@ -1,0 +1,18 @@
+.grids {
+  border: 1px solid black;
+  height: 120px;
+  width: 140px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.grids div {
+  height: 20px;
+  width: 20px;
+}
+
+.playerone {
+  background-image: url("./images/playerone.png");
+}
+.playertwo {
+  background-image: url(./images/playertwo.png);
+}
